@@ -2,7 +2,7 @@
     "name": "Sample Jetton",
     "description": "Sample of Jetton",
     "symbol": "JTN",
-    "decimals": 0,
+    "decimals": 9,
     "max_supply": 420000000,
     "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
  }
