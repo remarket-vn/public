@@ -1,0 +1,8 @@
+{
+    "name": "jUSDT",
+    "description": "Jetton USDT",
+    "symbol": "jUSDT",
+    "decimals": 9,
+    "max_supply": 1000000000,
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+ }
