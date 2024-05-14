@@ -1,6 +1,6 @@
 {
-    "name": "Sample Jetton",
-    "description": "Sample of Jetton",
+    "name": "Sample Jetton 1",
+    "description": "Sample of Jetton 1",
     "symbol": "JTN",
     "decimals": 9,
     "max_supply": 420000000,
