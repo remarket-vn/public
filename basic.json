@@ -4,5 +4,9 @@
 "symbol": "BJT",
 "max_supply": 420000000
 "decimals": 9,
-"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
+"image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png",
+"enable_trading": 0, 
+"buy_tax": 100,
+"sale_tax": 50,
+"tax_address": "EQBGGlq197GhGlrT46wys6Wu8OrPmywQzEKnbZHZCEuN0h7F"
 }
