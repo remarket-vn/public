@@ -2,7 +2,7 @@
 "name": "Basic Jetton",
 "description": "Basic Jetton",
 "symbol": "BJT",
-"max_supply": 420000000
+"max_supply": 420000000,
 "decimals": 9,
 "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png",
 "enable_trading": 0, 
